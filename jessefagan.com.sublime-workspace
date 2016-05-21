@@ -1,0 +1,437 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "jessefagan.com.sublime-project",
+			"settings":
+			{
+				"buffer_size": 344,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"new",
+				"Jekyll: New draft"
+			],
+			[
+				"package con",
+				"Package Control: List Packages"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jek",
+				"Jekyll: New draft"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"pando",
+				"Pandoc"
+			],
+			[
+				"spell",
+				"Snippet: set the front-matter for a jekyll post"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"high",
+				"Snippet: highlight"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"datetime",
+				"Jekyll: Insert current datetime"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown (Jekyll)"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 379.0,
+		"history":
+		[
+			"Jekyll",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jfagan/Dropbox/Personal/jessefagan.com"
+	],
+	"file_history":
+	[
+		"/home/jfagan/Dropbox/Personal/jessefagan.com/index.html",
+		"/home/jfagan/Dropbox/Personal/jessefagan.com/CNAME",
+		"/home/jfagan/Dropbox/Personal/jessefagan.com/_config.yml",
+		"/home/jfagan/.config/sublime-text-3/Packages/Jekyll/Jekyll.sublime-settings",
+		"/home/jfagan/.config/sublime-text-3/Packages/User/Jekyll.sublime-settings",
+		"/home/jfagan/Dropbox/Personal/jessefagan.com/.sublime-settings",
+		"/home/jfagan/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/jfagan/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/jfagan/Dropbox/projects/phlibraries/publicHealthLibraries_jf.csv",
+		"/home/jfagan/Dropbox/Classes/MGT410/group_assignments",
+		"/home/jfagan/Dropbox/projects/rucinet/rucinet/ucinetfiles/Camp92_6404.##h",
+		"/home/jfagan/.ssh/known_hosts",
+		"/home/jfagan/Dropbox/Collaborations/AlterTieCollection/Data/true_network.csv",
+		"/home/jfagan/Dropbox/Tempur Project/Tempur Sensitive Data/Research Projects/JAP/dataAndScriptsForJAP/variable_descriptions.txt",
+		"/home/jfagan/.config/plank/dock1/settings",
+		"/home/jfagan/lsusb-v",
+		"/home/jfagan/dmseg",
+		"/home/jfagan/Dropbox/projects/openeddi/openeddi3/oe/oe_pools/cipteams/pool.json",
+		"/home/jfagan/Dropbox/projects/openeddi/openeddi3/oe/oe_pools/elph/pool.json",
+		"/home/jfagan/Dropbox/projects/openeddi/openeddi3/oe/oe_pools/examplepool/pool.json",
+		"/media/jfagan/1ed24247-8b61-4976-a0b2-c8efac2f33a6/home/jfagan/tempur/sifeiScripts/clean_email.py",
+		"/home/jfagan/Dropbox/projects/rucinet/rucinet/ucinetfiles/campnet-6404.##h",
+		"/media/jfagan/1ed24247-8b61-4976-a0b2-c8efac2f33a6/home/jfagan/tempur/Release_V2/config.txt",
+		"/home/jfagan/Dropbox/Notes/151216_tempur_data_locations.md",
+		"/home/jfagan/.local/share/Aspyr/Sid Meier's Civilization 5/UserSettings.ini",
+		"/home/jfagan/.local/share/Aspyr/Sid Meier's Civilization 5/config.ini",
+		"/home/jfagan/.local/share/Steam/steamapps/common/Sid Meier's Civilization V/steamassets/assets/ui/frontend/mainmenu.lua",
+		"/home/jfagan/Dropbox/projects/infodiversity/sanitation.txt",
+		"/home/jfagan/Dropbox/Tempur Sensitive Data/Reports 2015/other/nationalAccountsList.csv",
+		"/home/jfagan/Dropbox/Links13Stoch/sessionscript/session1RSIENA2.txt",
+		"/home/jfagan/Dropbox/Tempur Sensitive Data/Reports 2015/other/fieldSalesList.csv",
+		"/home/jfagan/Dropbox/Notes/tempur_odlc_150918.md",
+		"/home/jfagan/testytest.html",
+		"/run/user/1000/gvfs/sftp:host=foxogram.com,user=jfagan/var/www/html/tsi/.htaccess",
+		"/home/jfagan/Dropbox/Tempur Sensitive Data/Dashboard2015/public/built.js",
+		"/usr/bin/mendeleydesktop",
+		"/home/jfagan/Dropbox/Tempur Sensitive Data/Reports 2015/raw/Professionals_07092015.csv",
+		"/home/jfagan/Downloads/positive-words.txt",
+		"/home/jfagan/Documents/test.svg",
+		"/home/jfagan/Documents/test_quotes.csv",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/_posts/2015-01-24-basic-network-analysis.md",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/_posts/2015-01-02-analyzing-a-basic-network.md",
+		"/home/jfagan/.ssh/id_rsa.pub",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/.gitignore",
+		"/usr/share/applications/google-chrome.desktop",
+		"/home/jfagan/index.html",
+		"/home/jfagan/Dropbox/Personal/TKI-Thomas Killman instrument - me.txt",
+		"/home/jfagan/Downloads/invite.ics",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/_layouts/post.html",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/about.md",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/_config.yml",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/_includes/footer.html",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/contact.md",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/_posts/2015-01-12-storing-r-objects-in-sqlite-tables.md",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/css/pixyll.scss",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/_posts/2014-12-29-r-and-networks.md",
+		"/home/jfagan/Dropbox/projects/tempurReports2014/emailListFromKellyCarter_141107.csv",
+		"/home/jfagan/Dropbox/projects/tempur/email/basicnetwork/findit.R",
+		"/home/jfagan/webstorm/Install-Linux-tar.txt",
+		"/home/jfagan/Dropbox/projects/tempurReports2014/gpd_danfoam_hash.txt",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/_layouts/default.html",
+		"/home/jfagan/.local/share/applications/mimeapps.list",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/jfaganuk.github.com.sublime-project",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/_includes/comments.html",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/_includes/head.html",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/_posts/2014-10-10-A test post.md",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/_includes/navigation.html",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/_site/contact/index.html",
+		"/home/jfagan/Dropbox/projects/jfaganUK.github.com/_config.yml",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/index.html",
+		"/home/jfagan/Dropbox/projects/jfaganuk.github.com/CNAME"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PostIntraOrgStatusAvg_13",
+			"NeedForChangeAvg_13",
+			"JobSecurityAvg_14",
+			"JobSecurityAvg_13",
+			"consent",
+			"conset",
+			"sheetid",
+			"\\n\\n",
+			"modding",
+			"mods",
+			"\"",
+			"\\n",
+			"   ",
+			"\\n",
+			"Interact",
+			", ",
+			"Reward\\w+",
+			"^\\w+",
+			"^\\w+\\n",
+			"Reward",
+			"^.+",
+			",\\n",
+			"^",
+			"\\n",
+			"$",
+			"PostOrgID4",
+			"PostOrgID3",
+			"PostOrgID4",
+			",$\\n",
+			"^",
+			"class",
+			"WM",
+			", ",
+			"assets"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"PostIntraOrgStatusAvg_13_rc",
+			"NeedForChangeAvg_13_rc",
+			"JobSecurityAvg_14_rc",
+			"JobSecurityAvg_13_rc",
+			"\\n",
+			"\\\"",
+			"",
+			"\", \"",
+			"Super\\1",
+			"$1",
+			"\\\"$1\\\"",
+			"$1ing",
+			"\"$1\",",
+			",",
+			"',",
+			"',\\n",
+			",",
+			"\"",
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "jessefagan.com.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 154.0
+	},
+	"pinned_build_system": "",
+	"project": "jessefagan.com.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 352.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

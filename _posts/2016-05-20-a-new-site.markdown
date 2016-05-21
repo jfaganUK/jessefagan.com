@@ -1,0 +1,8 @@
+---
+title: A New Site
+layout: post
+date: 2016-05-20 15:26:44
+categories: general
+---
+
+It has been a long time since I've had my jessefagan.com site working. But now that I'm hopefully going on the job market soon. I need to have a home site to market myself. Let's do this.
